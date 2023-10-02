@@ -9,3 +9,4 @@ git1 add2
 git1 add3
 
 git add4
+git2 add0
